@@ -9,3 +9,11 @@
 .nav-item {
   margin-top: 1rem;
 }
+
+button {
+  background-color: dodgerblue;
+  color: white;
+  border-radius: 5rem;
+  border: 2px solid black;
+  Margin: 5px;
+}
